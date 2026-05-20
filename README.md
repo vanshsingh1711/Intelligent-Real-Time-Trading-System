@@ -1,4 +1,4 @@
-# Intelligent Real-Time Trading System — Project Summary
+# Intelligent Real-Time Trading System 
 
 ## Overview
 
